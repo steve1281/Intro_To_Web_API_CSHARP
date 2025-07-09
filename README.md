@@ -444,3 +444,11 @@ Hello World
 ```
 - note, you can also do a MapPost, MapGet, MapDelete, MapPut
 
+## git log --oneline --decorate --all --reverse
+8a94931 add the ignore file
+6b92f27 setup, cleanup, ready to work...
+ab284c8 add a restful api
+60d44de create minimal API
+fcb231f create a barebones minimal API
+375ced7 add a README.md
+
