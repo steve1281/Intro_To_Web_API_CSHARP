@@ -1,7 +1,7 @@
 # Setup and Initial Configuration
 
 Reference: [Intro to Web API](https://www.youtube.com/watch?v=87oOF9Ve-KA)
-by *IAmTimCorey* (I am not associated with, but do reccomend)
+by *IAmTimCorey* (I am not associated with, but do recommend)
 
 
 ## TIL
@@ -127,7 +127,7 @@ C:\Users\steve>curl https://localhost:7092/weatherforecast
 ```
 
 ## Versioning
-- for now, not that there is a ApiDemo v1
+- for now, note that there is a ApiDemo v1
 - you will be able to call supported versions
 - generally, you start with version 1, and update with production releases
 
@@ -445,10 +445,10 @@ Hello World
 - note, you can also do a MapPost, MapGet, MapDelete, MapPut
 
 ## git log --oneline --decorate --all --reverse
-8a94931 add the ignore file
-6b92f27 setup, cleanup, ready to work...
-ab284c8 add a restful api
-60d44de create minimal API
-fcb231f create a barebones minimal API
-375ced7 add a README.md
+- 8a94931 add the ignore file
+- 6b92f27 setup, cleanup, ready to work...
+- ab284c8 add a restful api
+- 60d44de create minimal API
+- fcb231f create a barebones minimal API
+- 375ced7 add a README.md
 
